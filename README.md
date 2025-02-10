@@ -19,7 +19,7 @@ I'm a passionate developer with a love for coding and technology. Welcome to my 
 
 ## 🌟 Featured Projects
 
-- [Project 1](https://github.com/AbdullahKhalidRamay/project1): C++ mini project(concept of computer programing) JOB APPLICATION portal in c++.
+- [Project 1](https://github.com/AbdullahKhalidRamay/job-portal-c-plus-plus): C++ mini project(concept of computer programing) JOB APPLICATION portal in c++.
 - [Project 2](https://github.com/AbdullahKhalidRamay/project2): C++ mini project(concept of object oriented programing) CMS system in c++.
 - [Project 3](https://github.com/AbdullahKhalidRamay/project3):  C++ mini project(concept of DSA Data structure and algorithm) wechat application using all data structures 
    in c++.
