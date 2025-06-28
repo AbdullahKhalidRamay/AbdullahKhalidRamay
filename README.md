@@ -26,7 +26,7 @@ I'm a passionate developer with a love for coding and technology. Welcome to my 
 - [Project 4](https://github.com/AbdullahKhalidRamay/vehicle-management-system): C++ mini project(concept of DBMS Data BASE  and management system) car  management system using  data base and management concepts 
   structures in c++.
 - [Project 5](https://github.com/AbdullahKhalidRamay/web-page): web development mini project we built a page in VS code in HTML, CSS and JS. 
-- [Project 6](https://github.com/AbdullahKhalidRamay/project6):  Digital logical design project
+- [Project 6](https://github.com/AbdullahKhalidRamay/digital-gate-project):  Digital logical design project
  
 -	First we make 3 bit-asynchronous counter using j-k flip flop by help of 4- bit -asynchronous counter.
 -	Then by using three outputs Q0,Q1,Q2 of  counter as input impulse to get A,B,C,D outputs.
@@ -63,7 +63,7 @@ input	Q2	Q1	Q0	D	C	B	A
 8	0	0	0	0	0	0	0
 9
 	0	0	1	0	0	0	1
- - [Project 7](https://github.com/AbdullahKhalidRamay/project7):Digital logical design project
+ - [Project 7](https://github.com/AbdullahKhalidRamay/digital-gate-project-7):Digital logical design project
  - 4COM2003.circ-T03L1e11
  - Build a circuit that has two 8-bit two’s complement numbers U and
  Was its inputs and a single 8-bit output Z, such that
@@ -73,7 +73,7 @@ input	Q2	Q1	Q0	D	C	B	A
 ever, an 8-bit adder, incrementer and multiplexer, implemented via gates,
  are provided on the design board for your convenience. Feel free to use
  them, or build your own if you prefer.
-- [Project 8](https://github.com/AbdullahKhalidRamay/project8):Digital logical design project
+- [Project 8](https://github.com/AbdullahKhalidRamay/4COM2003.circ-T03L1e08):Digital logical design project
 - 4COM2003.circ-T03L1e08
  - Build a circuit that has two 8-bit two’s complement numbers U and
  Wand a 1-bit S as its inputs, and a single 8-bit output Z, such that
@@ -83,7 +83,7 @@ ever, an 8-bit adder, incrementer and multiplexer, implemented via gates,
 ever, an 8-bit adder, incrementer and multiplexer, implemented via gates,
  are provided on the design board for your convenience. Feel free to use
  them, or build your own if you prefer.
-- [Project 9](https://github.com/AbdullahKhalidRamay/project9):Digital logical design project
+- [Project 9](https://github.com/AbdullahKhalidRamay/4COM2003.circ-T03L1e07):Digital logical design project
 - 4COM2003.circ-T03L1e07
  - Build a circuit that has two 8-bit two’s complement numbers U and
  Was its inputs and a single 8-bit output Z, such that Z = 4 + U-W.
@@ -91,7 +91,7 @@ ever, an 8-bit adder, incrementer and multiplexer, implemented via gates,
 ever, an 8-bit adder, incrementer and multiplexer, implemented via gates,
  are provided on the design board for your convenience. Feel free to use
  them, or build your own if you prefer.
-- [Project 10](https://github.com/AbdullahKhalidRamay/project10):Digital logical design project
+- [Project 10](https://github.com/AbdullahKhalidRamay/4COM2003.circ-T03L1e04):Digital logical design project
   
 - 4COM2003.circ-T03L1e04
 - Build a circuit that has two 8-bit two’s complement numbers U and
@@ -101,7 +101,7 @@ ever, an 8-bit adder, incrementer and multiplexer, implemented via gates,
 ever, an 8-bit adder, incrementer and multiplexer, implemented via gates,
  are provided on the design board for your convenience. Feel free to use
  them, or build your own if you prefer
-- [Project 11](https://github.com/AbdullahKhalidRamay/project11):Digital logical design project
+- [Project 11](https://github.com/AbdullahKhalidRamay/4COM2003.circ-T02L1e10):Digital logical design project
 - 4COM2003.circ-T02L1e10
  - You are given a design board with two 4-bit input pins A and B and
  two output pins: a 4-bit Q and a 1-bit R. Build from gates a circuit that
@@ -115,7 +115,7 @@ ever, an 8-bit adder, incrementer and multiplexer, implemented via gates,
 plate 4COM2003.circ-T02L1e10.circ attached. That circuit is named
  "one-bit-adder" and you can use it as a chip in your design. Please do
  not rename any circuits.
-- [Project 12](https://github.com/AbdullahKhalidRamay/project12):Digital logical design project
+- [Project 12](https://github.com/AbdullahKhalidRamay/4COM2003.circ-T02L1e09):Digital logical design project
 - 4COM2003.circ-T02L1e09
 - You are given a design board with two input pins, a 6-bit pin A and
  a 6-bit pin B and one 6-bit output pin R.
@@ -126,7 +126,7 @@ plate 4COM2003.circ-T02L1e10.circ attached. That circuit is named
  Logisim’s Arithmetic library to save you time, but remember that you
  have already built one earlier. It is always a good idea to reuse your own
  components since you know exactly how they work
-- [Project 13](https://github.com/AbdullahKhalidRamay/project13):Digital logical design project
+- [Project 13](github.com/AbdullahKhalidRamay/4COM2003.circ-T02L1e04):Digital logical design project
 -4COM2003.circ-T02L1e04
  You are given a design board with two input pins A and B and three
  output pins R, C.out and V. Build from gates a 6-bit signed-number
@@ -139,6 +139,12 @@ in arithmetic devices to solve this problem. Use the Logisim template
  4COM2003.circ-T02L1e04.circ attached as a starting point for your
  circuit. A one-bit full full adder is provided with the design board for
  your convenience
+- [Project 14](https://github.com/AbdullahKhalidRamay/coin-operated-dispenser):Digital logical design project
+- coin operated dispenser
+- detail:
+-Showing all stages in the process, design and show the implementation of a digital system using D-type flip-flops and the necessary combinatorial logic to meet the
+- following specification:
+- A coin operated water dispenser for car wash requires 40p for each operation. It can take in coins of value 20p and 10p up to the exact amount. No change is available.  --- Require indicators for ready and next coin.
 
 
 ## 📈 GitHub Stats
