@@ -21,11 +21,11 @@ I'm a passionate developer with a love for coding and technology. Welcome to my 
 
 - [Project 1](https://github.com/AbdullahKhalidRamay/job-portal-c-plus-plus): C++ mini project(concept of computer programing) JOB APPLICATION portal in c++.
 - [Project 2](https://github.com/AbdullahKhalidRamay/CMS-system): C++ mini project(concept of object oriented programing) CMS system in c++.
-- [Project 3](https://github.com/AbdullahKhalidRamay/project3):  C++ mini project(concept of DSA Data structure and algorithm) wechat application using all data structures 
+- [Project 3](https://github.com/AbdullahKhalidRamay/CHAT-APP):  C++ mini project(concept of DSA Data structure and algorithm) wechat application using all data structures 
    in c++.
-- [Project 4](https://github.com/AbdullahKhalidRamay/project4): C++ mini project(concept of DSA Data structure and algorithm) library management system using  data 
+- [Project 4](https://github.com/AbdullahKhalidRamay/vehicle-management-system): C++ mini project(concept of DBMS Data BASE  and management system) car  management system using  data base and management concepts 
   structures in c++.
-- [Project 5](https://github.com/AbdullahKhalidRamay/project5): web development mini project we built a page in VS code in HTML, CSS and JS. 
+- [Project 5](https://github.com/AbdullahKhalidRamay/web-page): web development mini project we built a page in VS code in HTML, CSS and JS. 
 - [Project 6](https://github.com/AbdullahKhalidRamay/project6):  Digital logical design project
  
 -	First we make 3 bit-asynchronous counter using j-k flip flop by help of 4- bit -asynchronous counter.
